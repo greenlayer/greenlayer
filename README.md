@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @greenlayer
+- 👀 I’m interested in gamedev
+- 🌱 I’m currently learning Unity
+- 📫 My Discord: @cocoa.exe
+- 😄 Pronouns: Panzerkampfwagen/Neubaufahrzeug
+- ⚡ Fun fact: Whales exist
